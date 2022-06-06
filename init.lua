@@ -1,5 +1,5 @@
 dofile(minetest.get_modpath("player_api") .. "/api.lua")
-local animation_blend = 10
+
 -- Default player appearance
 player_api.register_model("character.b3d", {
 	animation_speed = 30,

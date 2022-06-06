@@ -2,7 +2,7 @@ player_api = {}
 
 -- Player animation blending
 -- Note: This is currently broken due to a bug in Irrlicht, leave at 0
-local animation_blend = 0
+local animation_blend = 1
 
 player_api.registered_models = {}
 
